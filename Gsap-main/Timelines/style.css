@@ -1,0 +1,79 @@
+.box {
+  display: inline-block;
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.blueBox {
+  background-color: blue;
+}
+.greenBox {
+  background-color: green;
+}
+.orangeBox {
+  background-color: orange;
+}
+
+.redBox {
+  background-color: red;
+}
+
+.purpleBox {
+  background-color: purple;
+}
+
+.circle {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+  border-radius: 50%;
+}
+
+.yellowCircle {
+  background-color: yellow;
+}
+
+.blueCircle {
+  background-color: blue;
+}
+
+.greenCircle {
+  background-color: green;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: purple;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+}
+
+.yellowSquare {
+  margin: 20px;
+  background-color: yellow;
+  border-radius: 20px;
+}

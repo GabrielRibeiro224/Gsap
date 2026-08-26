@@ -1,0 +1,78 @@
+/* .square {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.greenSquare {
+  background-color: #2ecc71;
+}
+
+.orangeSquare {
+  background-color: #e67e22;
+}
+
+.purpleSquare {
+  background-color: #9b59b6;
+}
+
+.blueSquare {
+  background-color: #3498db;
+} */
+/* 
+.circle {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 50%;
+}
+
+.circleYellow {
+  background-color: yellow;
+}
+
+.circleRed {
+  background-color: red;
+}
+
+.circleGreen {
+  background-color: green;
+}
+
+.circleBlue {
+  background-color: blue;
+} */
+
+.box {
+  display: inline-block;
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.orangeBox {
+  background-color: orange;
+}
+
+.purpleBox {
+  background-color: purple;
+}
+
+.blueBox {
+  background-color: blue;
+}
+
+.greenBox {
+  background-color: green;
+}
+
+.yellowBox {
+  background-color: yellow;
+}
+
+.redBox {
+  background-color: red;
+}
